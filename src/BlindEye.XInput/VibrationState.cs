@@ -24,7 +24,7 @@ namespace BlindEye.XInput
         public ushort LeftMotorSpeed { get; }
 
         /// <summary>
-        /// Gets a values indicating the state of the device's right motor.
+        /// Gets a value indicating the state of the device's right motor.
         /// </summary>
         public ushort RightMotorSpeed { get; }
     }
