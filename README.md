@@ -14,5 +14,6 @@ BlindEye Softworks grants you full permission to:
 - Use this code without the need of shipping source code.
 
 BlindEye Softworks does not grant you permission to:
-- Brand the code as your own or sell it, the core API is free so this code should be treated no differently.
+- Brand or market the code under any entity name other than BlindEye Softworks.
+- Sell the code, the core API is free so this code should be treated no differently and remain accessible for everyone.
 - Update functionality or make improvements (based on the core API) to the codebase without pushing those changes back into this repo. It is crucial that everyone benefits and there be a centralized wrapper for everyone.
