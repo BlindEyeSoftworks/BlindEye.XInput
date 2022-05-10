@@ -53,9 +53,9 @@ namespace BlindEye.XInput
         /// <para>
         /// If set to <see langword="false"/>, XInput will only return neutral data in response to
         /// calling <see cref="GetState(uint, ref GamepadState)"/> (all buttons up, thumbsticks
-        /// centered, and triggers at 0) and will also stop all vibration effects currently playing
-        /// In addition, calls to <see cref="SendVibration(uint, ref Vibration)"/> will continue to
-        /// be registered but not sent to the controller. Otherwise; if set to
+        /// centered, and triggers at 0) and will also stop all vibration effects currently
+        /// playing. In addition, calls to <see cref="SendVibration(uint, ref Vibration)"/> will
+        /// continue to be registered but not sent to the controller. Otherwise; if set to
         /// <see langword="true"/>, reading and writing functionality will be restored to normal
         /// and will also cause the last registered vibration request (even if it is 0) to be sent
         /// to the controller.
