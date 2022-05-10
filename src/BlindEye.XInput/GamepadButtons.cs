@@ -75,7 +75,7 @@ namespace BlindEye.XInput
         RightShoulder = 0x200,
 
         /// <summary>
-        /// Indicates the button is the right shoulder button.
+        /// Indicates the button is the guide button.
         /// </summary>
         Guide = 0x400,
 
