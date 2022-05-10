@@ -17,3 +17,5 @@ BlindEye Softworks does not grant you permission to:
 - Brand or market the code under any entity name other than BlindEye Softworks.
 - Sell the code, the core API is free so this code should be treated no differently and remain accessible for everyone.
 - Update functionality or make improvements (based on the core API) to the codebase without pushing those changes back into this repo. It is crucial that everyone benefits and there be a centralized wrapper for everyone.
+- Compile this wrapper under a different name.
+- Integrate this wrapper into your code, the wrapper must be used as a seperate library and be referenced as such.
