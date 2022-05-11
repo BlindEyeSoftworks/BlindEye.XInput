@@ -1,0 +1,155 @@
+Blind License V1 REV 0
+Moving forward, together, as one.
+
+Works - BlindEye.XInput
+Author/Copyright - © 2022 BlindEye Softworks
+Source - https://github.com/BlindEyeSoftworks/BlindEye.XInput/
+
+Copyright © 2022 BlindEye Softworks. Everyone is free to use and
+distribute verbatim copies of this license, however modifying it is
+not permitted.
+
+Newer revisions of this license can be found here:
+https://github.com/BlindEyeSoftworks/Blind-License-V1/blob/main/LICENSE
+
+Preamble
+
+The Blind License is a free to use license that ensures whatever works
+the license has been applied to have no concept of the world beyond its
+own scope.
+
+Licenses for open source works have taken away freedom from users and
+their ability to license their own works under a licensing scheme that
+they choose. These licenses have been designed to strip this freedom
+away with intentions of placing emphasis on the provider. The Blind
+License is designed to grant both the user and the provider the
+freedom they need to freely and commercially distribute works, as well
+for providing protections for both parties. Everyone is free to use and
+distribute this license but to ensure equal protections on both parties
+this license is not permitted to be modified in any way, shape, form,
+branding, title, etc.
+
+Terms & Conditions
+
+0. Definitions
+
+"This license" and "the license" refers to the Blind License.
+
+"The program" and "works" refers to any  works licensed
+under the Blind License.
+
+"User" and "users" refer to entitie(s) using the works licensed under
+the Blind License.
+
+"Provider" refers to the entity that published works licensed under the
+Blind License.
+
+1. Permissions
+
+Only the provider is permitted to change the licensing of their published
+works and users must abide by this principle. Users are free to modify,
+use, and distribute the works of the provider however users are not permitted
+to sell the works, or parts of it, without written consent from the provider.
+These freedoms do come with stipulations, which will be covered below.
+
+1.1 Modifying
+
+Users are free to modify the works of a provider, and it is encouraged that they
+do so. However, modifying the works does not nullify the license nor does it
+make the works the property of the user. The works must continue to be branded,
+marketed, distributed, and licensed the same as before modifying the works. Users
+are not free to change or modify the license of the works either. If the modification
+is an improvement or fix on the works, then those changes must be brought to the
+attention of the provider and the provider will have permission to apply those
+changes to the original works for everyone to benefit from. For example, we have two
+products, A and B. Product A is a media processing library licensed under the Blind
+License and Product B is a media player that implements Product A. Product A has a
+flaw in which the providers of Product B have fixed. The providers of Product B
+must notify the provider of Product A of such improvements or fixes as well for
+giving the provider of Product A the modified source code so that the provider of
+Product A can implement those changes into their original works so that all users
+of Product A can continue to receive quality services. Providers of Product B are
+not free to modify the name or branding of Product A, even after modifications,
+nor do modifications of Product A give exclusive ownership of Product A or the ability
+publish Product A as their own unique works.
+
+1.2 Selling & Distributing
+
+Users are not free to sell the works, or parts of the works, of a provider but
+are free to sell the works in which the works of a provider has been implemented
+into. For example, we have two products, A and B. Product A is a component
+licensed under this license and Product B is a product that heavily relies on
+Product A. Providers of Product B are free to sell Product B and distribute copies
+of Product A with it, however, Product A or parts of Product A cannot be sold on
+its own without written consent from the provider of Product A. When selling or
+publishing works of any kind that implements the works of a provider, it is required
+that this license also be distributed with the works of the provider. Users however
+are free to license their own works under any licensing scheme that they choose but
+this license must not affect the licensing of the provider. For example, Product B
+being licensed under the MIT license does not change the licensing of Product A and
+the license of Product A must continue to be upheld. Users that sell or distribute
+the works of the provider ARE NOT required to give credit to the provider and the
+provider IS NOT permitted to make requests for credit either. However, users must
+be honest when asked where they got the works of a provider. Giving credit can be
+defined as hyperlinks, wording (audible, digital, written, etc.), or branding which
+points to a product or provider. Works which make use of this license have no concept
+of credit or anything beyond the scope of itself and this license. However, it is highly
+recommended for those using this license to provide a hyperlink in the applicable section
+above on where the works can be obtained. Doing such allows users to know where they
+can find the works in case they need a specific version of the works for compatibility
+reasons.
+
+1.3 Usage
+
+Users are free to use the works of a provider, however they are not free to use parts of
+the works of the provider without written consent. For example, you cannot copy parts of
+the works of a provider into your own works and instead must use the works of the provider
+in its entirety, while also abiding by the license set forth by the provider. If the works
+of a provider is meant to be compiled as an executable or library, then the works of the
+provider must continue to be used as such. If the works of the provider is neither of the
+former however and instead is source code for those to implement into their own works then
+such usage is permitted. Users of such source code, as described above, are still required
+to distribute the license of the provider with the works that implement the works of the
+provider and even in this situation users are not free to take ownership of the works of
+the provider.
+
+2. Patents
+
+You may not patent the works of a provider published under this license.
+
+3. License Modifications
+
+Only the providers are permitted to modify the license and such modifications are purely
+limited to the fields above that indicate the title of the works, the author and copyright
+information of the works, and a link on where the works can be obtained.
+
+4. Revisions
+
+Only BlindEye Softworks retains the right to modify this license and may only do such to
+keep up to date with current trends or issues. When updating this license, either the version
+number or revision number will change. For revision changes of a specific version, ALL
+works using the version of the license in which the revision took place will be affected
+automatically. However, those using the license are not required to ship an updated license.
+Instead, users may look up the most recent revision of the specific version of the license
+using the link above. Swapping the license which has shipped or that you are shipping yourself
+with one of the same version and newer revision is permitted, but must be the latest
+revision for that version.
+
+5. Violation
+
+Violating this license and/or the terms set forth will automatically relinquish the ability of
+using, selling, modifying, etc., the works published under this license and in such situations
+you will be required to destroy all copies unless stated otherwise by the provider in written
+form. The provider is also permitted to take legal action for financial damages and/or
+deformation.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE. AUTHORS AND COPYRIGHT HOLDERS CAN AND WILL BE HELD LIABLE FOR DAMAGES
+IF IT IS PROVEN THAT THE AUTHORS OR COPYRIGHT HOLDERS HAD INTENTIONS OF BEING
+MALICIOUS, BUT ONLY IF THE AUTHORS OR COPYRIGHT HOLDERS DID NOT PUBLICLY DISCLOSE
+SUCH INTENT.
