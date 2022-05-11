@@ -2,10 +2,10 @@
 (c) 2022 BlindEye Softworks. All rights reserved.
 
 This is free software, you can redistribute it and/or modify it under the terms
-of the GNU GPL License v3.0 (GPLv3).
+of the Blind License v1.0 (BLv1).
 
-You should have received a copy of the GPLv3 license with this source code. If
-not, visit https://www.gnu.org/licenses/gpl-3.0.en.html.
+You should have received a copy of the BLv1 license with this source code. If
+not, visit https://github.com/BlindEyeSoftworks/Blind-License-V1/blob/main/LICENSE.
 
 If you have any questions in regards to this license you may contact:
 licensing@blindeyesoftworks.com
