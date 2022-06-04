@@ -72,7 +72,7 @@ namespace BlindEye.XInput
             set
             {
                 inputEnabled = value;
-                Enable(false); 
+                Enable(value); 
             }
         }
 
