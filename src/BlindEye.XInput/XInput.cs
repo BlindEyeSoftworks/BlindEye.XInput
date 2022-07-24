@@ -250,7 +250,7 @@ namespace BlindEye.XInput
         /// When this method is used to retrieve a controller's state, the left and right triggers
         /// are both reported separately. For legacy reasons, when DirectInput retrieves a
         /// controller's state, the two triggers share the same axis. The legacy behavior is
-        /// noticeable in the current Game Device Control Panel, which uses DirectInput API for
+        /// noticeable in the current Game Device Control Panel which uses the DirectInput API for
         /// controller state.
         /// </remarks>
         /// <returns>
