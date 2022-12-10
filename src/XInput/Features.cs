@@ -24,7 +24,7 @@ namespace BlindEye.XInput
         /// <para>
         /// Note that these force-feedback features beyond rumble (i.e. impulse triggers and
         /// other haptics) are not currently supported by the XInput API on Windows and can be
-        /// found exclusively in the DirectInput API as well for the Windows.Gaming.Input
+        /// found exclusively in the GameInput API as well for the Windows.Gaming.Input
         /// namespace for developers targeting the Universal Windows Platform (UWP).
         /// </para>
         /// </summary>
