@@ -386,7 +386,7 @@ namespace BlindEye.XInput
         /// device's bus information from XInput once the request has been completed.
         /// </param>
         /// <remarks>
-        /// The specified device's <see cref="DeviceInformation"/> must first be requested prior to
+        /// The specified device's <see cref="DeviceInformation"/> must be requested prior to
         /// calling this method, not doing so will trigger an invalid response from XInput.
         /// </remarks>
         /// <returns>
